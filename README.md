@@ -1,5 +1,12 @@
-frontend-nanodegree-arcade-game
-===============================
+Frogger
+=======
+
+> Frogger clone written in JavaScript using HTML5 Canvas
+
+This is my clone of Frogger, a course project for Udacity's Object-Oriented Programming in JavaScript.
+
+Misc
+----
 
 Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
 
