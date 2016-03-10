@@ -1,8 +1,9 @@
 body {
     text-align: center;
+    background-image: url(../images/congruent_pentagon.png);
 }
 
-/*.stop-scrolling {
+.stop-scrolling {
   height: 100%;
   overflow: hidden;
-}*/
+}
